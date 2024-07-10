@@ -1,0 +1,8 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+body{
+    margin: auto;
+    /* max-width: 1440px; */
+    position: relative;
+}
